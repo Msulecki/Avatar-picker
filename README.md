@@ -1,3 +1,8 @@
+# Avarat picker
+
+This is my attempt to create an avatar picker from [JoinColony/coding-challenge](https://github.com/JoinColony/coding-challenge)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

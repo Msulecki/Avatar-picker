@@ -1,4 +1,4 @@
-# Avarat picker
+# Avatar picker
 
 This is my attempt to create an avatar picker from [JoinColony/coding-challenge](https://github.com/JoinColony/coding-challenge)
 

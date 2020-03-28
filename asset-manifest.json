@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Avatar-picker/static/css/main.c2c3bd93.chunk.css",
-    "main.js": "/Avatar-picker/static/js/main.2d31b883.chunk.js",
-    "main.js.map": "/Avatar-picker/static/js/main.2d31b883.chunk.js.map",
+    "main.js": "/Avatar-picker/static/js/main.d5f3a994.chunk.js",
+    "main.js.map": "/Avatar-picker/static/js/main.d5f3a994.chunk.js.map",
     "runtime-main.js": "/Avatar-picker/static/js/runtime-main.24351cac.js",
     "runtime-main.js.map": "/Avatar-picker/static/js/runtime-main.24351cac.js.map",
     "static/js/2.c061c1a1.chunk.js": "/Avatar-picker/static/js/2.c061c1a1.chunk.js",
     "static/js/2.c061c1a1.chunk.js.map": "/Avatar-picker/static/js/2.c061c1a1.chunk.js.map",
     "index.html": "/Avatar-picker/index.html",
-    "precache-manifest.9ce0c7c5da3eb5bc073ea4422933bb08.js": "/Avatar-picker/precache-manifest.9ce0c7c5da3eb5bc073ea4422933bb08.js",
+    "precache-manifest.bd1ff178d2dfd5bd3fdbb2b47ceb0d0e.js": "/Avatar-picker/precache-manifest.bd1ff178d2dfd5bd3fdbb2b47ceb0d0e.js",
     "service-worker.js": "/Avatar-picker/service-worker.js",
     "static/css/main.c2c3bd93.chunk.css.map": "/Avatar-picker/static/css/main.c2c3bd93.chunk.css.map",
     "static/js/2.c061c1a1.chunk.js.LICENSE.txt": "/Avatar-picker/static/js/2.c061c1a1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.24351cac.js",
     "static/js/2.c061c1a1.chunk.js",
     "static/css/main.c2c3bd93.chunk.css",
-    "static/js/main.2d31b883.chunk.js"
+    "static/js/main.d5f3a994.chunk.js"
   ]
 }

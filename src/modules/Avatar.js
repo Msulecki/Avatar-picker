@@ -28,12 +28,12 @@ function Avatar(props) {
         onFocus={() => setPopover(true)}
         onClick={e => handleAvatarChange(e.target, avatar)}
         onKeyDown={e => e.keyCode === 13 && handleAvatarChange(e.target.children[0], avatar)}
-        className="avatar__popover-pick"><div className="border border--big"></div><img src={`/img/${avatar.src}`} alt={avatar.label} /></li>)
+        className="avatar__popover-pick"><div className="border border--big"></div><img src={`%PUBLIC_URL%/img/${avatar.src}`} alt={avatar.label} /></li>)
 
     const initialAvatar = <div ref={avatarNode} className="avatar__image"
         tabIndex={0}
         onClick={() => setPopover(!popover)}
-    ><div className='border'></div><img src={`/img/${newavatar.src}`} alt={newavatar.label} /></div>
+    ><div className='border'></div><img src={`%PUBLIC_URL%/img/${newavatar.src}`} alt={newavatar.label} /></div>
 
     const avatarPopover = <div ref={popoverNode} className="avatar__popover" style={popoverStyle}>
         <div className="avatar__popover-triangle"></div>
